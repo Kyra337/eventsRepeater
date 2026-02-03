@@ -1,4 +1,8 @@
 import csv
+import streamlit as st
+
+# App related things
+st.title("Event Repeater Checker")
 
 # Opens file
 def file_opener(file):
