@@ -11,7 +11,7 @@ def file_opener(file):
         data.append(row['PID'])
     return data
 
-# Finds Repeat Attendees
+# Finds Repeat Attendees: up to 10 weeks of events
 def eventRepeaters(file1, file2, file3=[], file4=[], file5=[], file6=[], file7=[], file8=[], file9=[], file10=[]):
     repeat = []
     new_attendee = file1
