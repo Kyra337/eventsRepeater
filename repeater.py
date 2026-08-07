@@ -96,19 +96,3 @@ def eventRepeaters(file1, file2, file3=[], file4=[], file5=[], file6=[], file7=[
     print("Repeat for week 6: ", count5)
     print("New Attendee for week 7: ", new_attendeew7)
     print("Repeat for week 7: ", count6)
-
-
-# file1 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_1_.csv')
-# file2 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_2_.csv')
-# file3 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_3.csv')
-# file4 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_4.csv')
-# file5 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_5.csv')
-# file6 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Bingo_Week_6.csv')
-# eventRepeaters(file1, file2, file3, file4, file5, file6)
-
-# movie1 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Twilight_#1_.csv')
-# movie2 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Twilight_#2.csv')
-# movie3 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Twilight_#3.csv')
-# movie4 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Twilight_#4.csv')
-# movie5 = file_opener('/Users/kyra/Desktop/cse/Projects/data/Scanner_Report-detail_Twilight_#5.csv')
-# eventRepeaters(movie1, movie2, movie3, movie4, movie5)
